@@ -77,7 +77,6 @@ export function Home() {
           </div>
 
           <img src={CoffeeImage} alt="Café do Coffee Delivery" />
-          {/* <img src="../../../public/images/expresso.png" alt="" /> */}
         </Content>
       </MainSection>
 
