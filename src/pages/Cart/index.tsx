@@ -29,7 +29,7 @@ import { z } from 'zod'
 import { PaymentOptionButton } from '../../components/Form/PaymentOptionButton'
 import { Fragment, useContext } from 'react'
 import { CartContext } from '../../contexts/CartContext'
-import { coffees } from '../../../coffesData.json'
+import { coffees } from '../../../coffeesData.json'
 import { QuantityInput } from '../../components/Form/QuantityInput'
 
 type FormInputs = {

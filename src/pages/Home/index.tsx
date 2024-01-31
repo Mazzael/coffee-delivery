@@ -9,7 +9,7 @@ import {
 import { useTheme } from 'styled-components'
 import CoffeeImage from '../../assets/CoffeeImage.svg'
 
-import { coffees } from '../../../coffesData.json'
+import { coffees } from '../../../coffeesData.json'
 import { CoffeeCard } from '../../components/CoffeeCard'
 
 export function Home() {
